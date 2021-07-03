@@ -1,0 +1,12 @@
+Deprecated References:
+  without-interrupts
+      ("imail-core")
+      ("imail-util")
+  without-interrupts
+      ("imail-file")
+  without-interrupts
+      ("imail-imap")
+  without-interrupts
+      ("imail-top")
+  without-interrupts
+      ("imail-summary")
